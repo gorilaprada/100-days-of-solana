@@ -26,3 +26,4 @@ dist-ssr
 # Misc
 **wallet.json
 **extract-privateKey.js
+**.env

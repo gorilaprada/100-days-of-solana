@@ -4,4 +4,4 @@ Welcome to my **100 Days of Solana** journey! This repository documents my daily
 
 ## 📊 Challenge Overview
 - **Start Date:** [2026-04-27]
-- **Current Progress:** Day 7/100
+- **Current Progress:** Day 8/100
