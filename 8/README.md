@@ -1,4 +1,4 @@
-# Day 7: Today's objective was to fetch the balance of a wallet using the @solana/kit.
+# Day 8: Today's objective was to fetch the balance of a wallet using the @solana/kit.
 
 ## Lessons learned:
 - Practice makes perfect. Repeating the fetch balance of a wallet, which we had already done on day 4 reinforced the concepts in my head.
