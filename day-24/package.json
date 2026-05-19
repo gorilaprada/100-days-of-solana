@@ -1,0 +1,7 @@
+{
+  "type": "module",
+	"dependencies": {
+		"@solana/kit": "^6.9.0",
+		"@solana-program/token": "^0.13.0"
+	}
+}
