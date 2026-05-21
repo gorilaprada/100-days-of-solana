@@ -12,15 +12,7 @@
 
 - System accounts (e.g Your typical Solana wallet) have zero data, are not executable and are owned by the System Program
 
-- Native programs (e.g [System Program](#system-program), [Stake Program](#stake-program)) hold program bytecode data. They are executable and owned by the [Native Loader](#native-loader).
+- Native programs (e.g [System Program](https://explorer.solana.com/address/11111111111111111111111111111111?cluster=devnet), [Stake Program](https://explorer.solana.com/address/Stake11111111111111111111111111111111111111?cluster=devnet)) hold program bytecode data. They are executable and owned by the [Native Loader](https://explorer.solana.com/address/BPFLoaderUpgradeab1e11111111111111111111111?cluster=devnet).
 
-- Sysvar accounts (e.g. [Clock sysvar](#clock-sysvar)) hold read-only cluster state data. They are not executable and are owned by the [Sysvar program](#sysvar-program).
+- Sysvar accounts (e.g. [Clock sysvar](https://explorer.solana.com/address/SysvarC1ock11111111111111111111111111111111?cluster=devnet)) hold read-only cluster state data. They are not executable and are owned by the [Sysvar program](https://explorer.solana.com/address/Sysvar1111111111111111111111111111111111111?cluster=devnet).
 
-
-
-Account References:
-11111111111111111111111111111111 {#system-program}
-Stake11111111111111111111111111111111111111 {#stake-program}
-BPFLoaderUpgradeab1e11111111111111111111111 {#native-loader}
-SysvarC1ock11111111111111111111111111111111 {#clock-sysvar}
-Sysvar1111111111111111111111111111111111111 {#sysvar-program}
