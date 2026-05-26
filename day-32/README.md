@@ -1,4 +1,4 @@
-# Day 29: Creating a new Token mint with the Solana CLI
+# Day 32: Creating a new Token mint with the Solana CLI (Same as day-29)
 
 ---
 
@@ -9,7 +9,7 @@
 
 - How to create an account to hold the newly created token
 
-- How to transfer the token 
+- How to transfer the token
 
 - How to collect the transaction fee withheld from the token
 
