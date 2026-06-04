@@ -25,5 +25,6 @@ dist-ssr
 
 # Misc
 **wallet.json
+**nft-wallet.json
 **extract-privateKey.js
 **.env
